@@ -19,8 +19,8 @@
 19,yes,no,11,6
 20,yes,no,12,1
 21,yes,no,12,2
-22,yes,no,13,7
-23,yes,no,13,6
+22,yes,yes,13,7
+23,yes,yes,13,6
 24,yes,no,15,3
 25,yes,no,15,11
 26,yes,no,15,2
@@ -128,3 +128,7 @@
 128,yes,no,69,5
 129,yes,no,70,5
 130,yes,no,70,18
+131,yes,yes,13,2
+132,yes,yes,13,8
+133,yes,yes,13,10
+134,yes,yes,13,1

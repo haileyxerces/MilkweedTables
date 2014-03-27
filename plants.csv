@@ -1,7 +1,7 @@
 1,Butterfly Milkweed,Asclepias tuberosa,ASTU
 2,Swamp Milkweed,Asclepias incarnata,ASIN
 3,Poke Milkweed,Asclepias exaltata,ASEX
-4,Pinewoods Milkweed,Asclepias humistrata,
+4,Pinewoods Milkweed,Asclepias humistrata,ASHU3
 5,Showy Milkweed,Asclepias speciosa,ASSP
 6,Whorled Milkweed,Asclepias verticillata,ASVE
 7,Common Milkweed,Asclepias syriaca,ASSY
@@ -23,3 +23,5 @@
 23,Broadleaf Milkweed,Asclepias latifolia,
 24,Pineleaf Milkweed,Asclepias linaria,
 25,Woolly Milkweed,Asclepias vestita,
+26,Longleaf Milkweed,Asclepias longifolia,ASLO
+27,Aquatic Milkweed,Asclepias perennis,ASPE

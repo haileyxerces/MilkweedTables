@@ -42,12 +42,12 @@
 42,yes,no,18,1
 43,yes,no,18,2
 44,yes,no,18,6
-45,yes,yes,19,2
-46,yes,yes,19,8
-47,yes,yes,19,10
-48,yes,yes,19,1
-49,yes,yes,19,6
-50,yes,yes,19,7
+45,yes,no,19,2
+46,yes,no,19,8
+47,yes,no,19,10
+48,yes,no,19,1
+49,yes,no,19,6
+50,yes,no,19,7
 51,yes,no,20,2
 52,yes,no,20,7
 53,yes,no,20,1
@@ -447,3 +447,4 @@
 447,yes,yes,121,10
 448,yes,yes,121,7
 449,yes,yes,121,16
+450,yes,no,19,11

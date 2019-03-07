@@ -65,15 +65,15 @@
 65,yes,yes,26,2
 66,yes,yes,26,1
 67,yes,no,27,9
-68,yes,no,27,3
-69,yes,no,27,2
+68,yes,yes,27,3
+69,yes,yes,27,2
 70,yes,no,27,14
-71,yes,no,27,15
+71,no,no,27,15
 72,yes,no,27,5
-73,yes,no,27,10
-74,yes,no,27,7
+73,yes,yes,27,10
+74,yes,yes,27,7
 75,yes,yes,27,1
-76,yes,no,27,6
+76,yes,yes,27,6
 77,yes,yes,27,16
 78,yes,yes,27,13
 79,yes,yes,28,2
@@ -460,3 +460,5 @@
 460,yes,no,141,38
 461,no,yes,84,1
 462,no,yes,84,6
+463,yes,no,27,29
+464,yes,yes,8

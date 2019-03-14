@@ -83,7 +83,7 @@
 83,yes,no,29,1
 84,yes,no,29,7
 85,yes,no,29,6
-86,yes,no,30,2
+86,yes,yes,30,2
 87,no,no,31,2
 88,no,no,31,1
 89,yes,no,34,1
@@ -508,3 +508,7 @@
 508,yes,no,9,5
 509,yes,no,9,7
 510,yes,no,9,1
+511,yes,yes,30,10
+512,yes,yes,30,7
+513,yes,yes,30,6
+513,yes,no,30,1

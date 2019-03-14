@@ -137,10 +137,10 @@
 137,yes,no,39,5
 138,yes,no,71,19
 139,yes,yes,10,1
-140,yes,no,10,7
+140,yes,yes,10,7
 141,yes,yes,10,2
-142,yes,no,10,10
-143,yes,no,10,6
+142,yes,yes,10,10
+143,yes,yes,10,6
 144,yes,yes,58,18
 145,yes,no,73,18
 146,yes,no,74,21
@@ -485,3 +485,6 @@
 485,yes,no,68,5
 486,yes,yes,91,7
 487,yes,no,91,2
+488,yes,yes,10,11
+489,yes,yes,10,8
+490,yes,yes,10,16
